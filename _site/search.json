@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-19T13:46:51+03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Joshua Omondi",
+      "description": "The Data Nerd\n",
+      "author": [],
+      "contents": "\r\n\r\nAbout Me:\r\nEducation:\r\nProjects:\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-19T13:47:20+03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

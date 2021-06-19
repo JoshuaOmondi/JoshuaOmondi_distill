@@ -1,0 +1,20 @@
+name: "website"
+title: "Joshua Omondi"
+description: |
+  The Data Nerd
+output_dir: "_site"
+navbar:
+  logo:
+    image: Site Logo.png
+  right:
+    - text: "About"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+    - icon: fa fa-github
+      href: https://github.com/JoshuaOmondi
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/joshua-omondi 
+    - icon: fa fa-twitter
+      href: https://twitter.com/omondijoshuah?s=09 
+output: distill::distill_article

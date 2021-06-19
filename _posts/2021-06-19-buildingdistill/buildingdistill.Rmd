@@ -1,0 +1,19 @@
+---
+title: "Who's the G.O.A.T? Messi or CR7?"
+description: |
+  A short description of the post.
+author:
+  - name: Joshua
+date: 06-19-2021
+preview: Viz.PNG
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Here is where I will talk about who is the G.O.A.T.

@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-06-19-buildingdistill/",
+    "title": "Building a {distill} website",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Joshua",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-19",
+    "categories": [],
+    "contents": "\r\nHere is where I will talk about building this site\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-06-19-buildingdistill/Viz.PNG",
+    "last_modified": "2021-06-19T11:59:43+03:00",
+    "input_file": {}
+  }
+]
